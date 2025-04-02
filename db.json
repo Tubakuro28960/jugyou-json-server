@@ -1,0 +1,16 @@
+{
+  "jugyous": [
+    {
+      "id": 1,
+      "name": "授業名",
+      "explanation": "授業の説明",
+      "category": "学部",
+      "rating": 5,
+      "teacher": "担当教員名",
+      "attendance": "あり",
+      "test": "あり",
+      "classFormat": "対面",
+      "report": "あり"
+    }
+  ]
+}
